@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout << "¼ÓÓÍ°ÉÉÙÄê!" << endl;
+    cout << "åŠ æ²¹å§å°‘å¹´!" << endl;
     cout << "dbsuvb" << endl;
     getchar();
     return 0;
